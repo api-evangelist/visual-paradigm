@@ -1,0 +1,69 @@
+{
+    "name": "Visual Paradigm",
+    "description": "Visual Paradigm, a software design tool tailored for agile software projects. It supports UML, BPMN, ERD, DFD, SysML. It also supports use cases, wireframeing, code engineering, etc.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-04-58-pm.png",
+    "tags": [
+        "databases",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/visual-paradigm\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Visual Paradigm",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-04-58-pm.png",
+            "humanURL": "https:\/\/www.visual-paradigm.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/visual-paradigm-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/visual-paradigm"
+        },
+        {
+            "type": "Email",
+            "url": "info@visual-paradigm.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@visual-paradigm.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@visual-paradigm.com"
+        },
+        {
+            "type": "Email",
+            "url": "project@visual-paradigm.com"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/www.visual-paradigm.com\/partner\/academic\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.visual-paradigm.com\/shop\/vp.jsp"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/visualparadigm"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.visual-paradigm.com\/"
+        }
+    ]
+}
